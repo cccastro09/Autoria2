@@ -1,0 +1,12 @@
+{
+  "db": {
+    "host": "ds225382.mlab.com:25382/apibookz",
+    "port": 25382,
+    "url": "mongodb://newUser:korn12345@ds225382.mlab.com:25382/apibookz",
+    "database": "apibookz",
+    "password": "korn12345",
+    "name": "db",
+    "user": "newUser",
+    "connector": "mongodb"
+  }
+}
